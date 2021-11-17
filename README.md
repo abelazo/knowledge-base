@@ -1,9 +1,10 @@
 ---
 coverY: 0
+description: This is a personal record of all books I read.
+cover: >-
+  https://images.unsplash.com/photo-1593430980369-68efc5a5eb34?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxib29rc2hlbGZ8ZW58MHx8fHwxNjM3MTg5OTc4&ixlib=rb-1.2.1&q=85
 ---
 
-# Welcome!
+# 😁 Welcome Abel's knowledge-base!
 
-## Welcome aboard!
-
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Welcome to my book records.
